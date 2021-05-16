@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ruo-yu-Pan
-- 👀 I’m interested in data analysis, marine ecology and fisheries management 
-- 💞️ I’m happy to collaborate on issues of ecology and fisheries 
+- 👀 I’m interested in data analysis, spatial ecology and fisheries management 
+- 💞️ I’m happy to collaborate on issues of spatial ecology and fisheries 
 - 📫 People can reach me through my email: romy.rypan@gmail.com
 
 <!---
